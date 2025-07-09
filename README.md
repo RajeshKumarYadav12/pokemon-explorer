@@ -50,7 +50,7 @@ npm (Node Package Manager)
 Installation
 Clone the repository:
 
-git clone <YOUR_REPOSITORY_LINK_HERE>
+git clone https://github.com/RajeshKumarYadav12/pokemon-explorer.git
 cd pokemon-explorer
 
 Install dependencies:
