@@ -51,6 +51,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/RajeshKumarYadav12/pokemon-explorer.git
+
 cd pokemon-explorer
 
 Install dependencies:
